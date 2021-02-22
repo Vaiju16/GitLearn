@@ -1,2 +1,2 @@
 # GitLearn
-Explore Git
+Explore Git!
